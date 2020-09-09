@@ -1,0 +1,5 @@
+XSym
+0095
+da832b6ba3ce2dd7f9c8519443bb1d5f
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCaching.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

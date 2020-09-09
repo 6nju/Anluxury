@@ -1,0 +1,5 @@
+XSym
+0098
+6dd7298b4b7f0b24d3f2654b11e64542
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Instrument/ErrorReport/FBSDKErrorReport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

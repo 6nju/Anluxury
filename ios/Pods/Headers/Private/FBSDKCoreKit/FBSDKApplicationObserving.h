@@ -1,0 +1,5 @@
+XSym
+0084
+a099db3dcc6605fc56784efd1255a350
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKApplicationObserving.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

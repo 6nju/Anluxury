@@ -1,0 +1,5 @@
+XSym
+0087
+192fc2de5e0a765c1d3bdaa6b843f8db
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Basics/Instrument/FBSDKCrashObserving.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

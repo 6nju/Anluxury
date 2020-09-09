@@ -1,0 +1,5 @@
+XSym
+0089
+a99d4bf35f3ecad68331403c3055a38a
+../../../../../node_modules/react-native-fbsdk/ios/RCTFBSDK/login/RCTConvert+FBSDKLogin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

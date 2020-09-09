@@ -1,0 +1,5 @@
+XSym
+0089
+695cde4b0e7e6526fa5b493a7be0586e
+../../../../../node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKMessageDialog.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

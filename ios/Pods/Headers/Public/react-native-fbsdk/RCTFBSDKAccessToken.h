@@ -1,0 +1,5 @@
+XSym
+0086
+6245c76af381c6a19feddf15e54293c4
+../../../../../node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKAccessToken.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

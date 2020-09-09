@@ -1,0 +1,5 @@
+XSym
+0084
+c15396ae8df240af5e767797ecd9c43d
+../../../../../node_modules/react-native-fbsdk/ios/RCTFBSDK/core/RCTFBSDKAppEvents.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

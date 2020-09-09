@@ -1,0 +1,5 @@
+XSym
+0071
+b2ced46059f405610c5f0ae67abc578f
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKLogo.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

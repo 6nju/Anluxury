@@ -1,0 +1,5 @@
+XSym
+0103
+6614bdaff6aea68f4bcdbd5e3e7202dd
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKDialogConfiguration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

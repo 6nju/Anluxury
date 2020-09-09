@@ -1,0 +1,5 @@
+XSym
+0093
+0691f4dca5890d8a69be4a8d2114e8fa
+../../../../../node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKGameRequestDialog.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

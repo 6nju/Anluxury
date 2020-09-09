@@ -1,0 +1,5 @@
+XSym
+0084
+8437ee6287c66af870b7bb75e5e255a7
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Basics/Instrument/FBSDKLibAnalyzer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

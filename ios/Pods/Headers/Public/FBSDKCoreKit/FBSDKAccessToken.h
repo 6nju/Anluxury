@@ -1,0 +1,5 @@
+XSym
+0066
+5d85a91bc6e0de625e2be2e233b59fa5
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

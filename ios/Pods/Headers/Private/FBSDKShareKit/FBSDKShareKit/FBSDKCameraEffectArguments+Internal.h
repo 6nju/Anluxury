@@ -1,0 +1,5 @@
+XSym
+0100
+a51f0d9172e16b7ab1e7ca910a745dc0
+../../../../FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKCameraEffectArguments+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

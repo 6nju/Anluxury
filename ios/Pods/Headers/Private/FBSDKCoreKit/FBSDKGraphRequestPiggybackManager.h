@@ -1,0 +1,5 @@
+XSym
+0100
+928cde92d8ef0c44aee338d0cc1ea802
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestPiggybackManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

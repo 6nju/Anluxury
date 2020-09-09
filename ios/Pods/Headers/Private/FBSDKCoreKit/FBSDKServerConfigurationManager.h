@@ -1,0 +1,5 @@
+XSym
+0110
+1a39de863efea35ae6e4ec293946d5cd
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfigurationManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

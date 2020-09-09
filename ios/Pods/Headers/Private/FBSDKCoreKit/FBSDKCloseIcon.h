@@ -1,0 +1,5 @@
+XSym
+0076
+d4f26c22f64fab8313c345dd2aa37bb3
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKCloseIcon.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0136
+a8b1d39f5805ff116aa5c46c53f3d1e6
+../../../../../node_modules/@invertase/react-native-apple-authentication/ios/RNAppleAuthentication/RNAppleAuthASAuthorizationDelegates.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

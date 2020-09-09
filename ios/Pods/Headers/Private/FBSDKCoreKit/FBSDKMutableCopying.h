@@ -1,0 +1,5 @@
+XSym
+0069
+f7c2e0d39ca2a42732335f23c4db9dde
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

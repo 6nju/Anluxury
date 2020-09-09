@@ -1,0 +1,5 @@
+XSym
+0087
+9af6e1bbfc7192e4a2b720a25f1f3da5
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialogView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

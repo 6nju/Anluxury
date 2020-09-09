@@ -1,0 +1,5 @@
+XSym
+0083
+ab65ad9dcb61f3504969512872a2d04d
+../../../../FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKCheckmarkIcon.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

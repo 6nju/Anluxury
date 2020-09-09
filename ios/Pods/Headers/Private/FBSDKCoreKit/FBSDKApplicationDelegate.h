@@ -1,0 +1,5 @@
+XSym
+0074
+1208ea46ead3fde9c644dbffc689e346
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

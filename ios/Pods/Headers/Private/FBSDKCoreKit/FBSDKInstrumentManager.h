@@ -1,0 +1,5 @@
+XSym
+0092
+28121e96512d60a7d230f9d1e72ab24e
+../../../FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Instrument/FBSDKInstrumentManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0097
+e3c8cd039283fb0d0996291f3f289c3b
+../../../../FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerGenericTemplateContent.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

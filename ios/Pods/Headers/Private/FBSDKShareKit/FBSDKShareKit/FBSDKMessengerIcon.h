@@ -1,0 +1,5 @@
+XSym
+0083
+543c69764167e3c43feca37f9d1e8168
+../../../../FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKMessengerIcon.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0094
+3013f64b9db918f33912d31a44d359c7
+../../../../../node_modules/react-native-fbsdk/ios/RCTFBSDK/login/RCTFBSDKLoginButtonManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

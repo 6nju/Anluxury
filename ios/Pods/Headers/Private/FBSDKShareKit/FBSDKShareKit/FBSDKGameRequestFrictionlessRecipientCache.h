@@ -1,0 +1,5 @@
+XSym
+0107
+3b1c37f3e87f134d43e858050234dac2
+../../../../FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKGameRequestFrictionlessRecipientCache.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
